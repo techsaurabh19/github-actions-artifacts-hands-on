@@ -27,5 +27,5 @@ jobs:
           name: hello-artifact
           path: ./artifacts
       - name: script
-        run: 'cat ./artifacts/hello.txt
+        run: 'cat ./artifacts/hello.txt'
   
